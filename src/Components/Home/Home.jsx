@@ -39,7 +39,7 @@ export default function Home() {
       <div className="col-md-4 d-flex align-items-center">
         <div>
           <div className="brdr w-25 mb-3"></div>
-            <h2 className='h3'>Trending <br/>Tv<br/> Watch Now </h2>
+            <h2 className='h3'>Trending <br/>Tv Shows<br/> Watch Now </h2>
             <p className='text-muted'>Most Watched Tv Shows By Week</p>
           <div className="brdr w-100 mt-3"></div>
         </div>
@@ -52,7 +52,7 @@ export default function Home() {
       <div className="col-md-4 d-flex align-items-center">
         <div>
           <div className="brdr w-25 mb-3"></div>
-            <h2 className='h3'>Trending <br/>Tv<br/> Watch Now </h2>
+            <h2 className='h3'>Trending <br/>Actors<br/> Watch Now </h2>
             <p className='text-muted'>Most Watched Actors By Week</p>
           <div className="brdr w-100 mt-3"></div>
         </div>
