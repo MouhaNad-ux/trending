@@ -1,7 +1,7 @@
 {
   "name": "app1",
   "version": "0.1.0",
-  "homepage": "https://MouhaNad-ux.github.io/trendi",
+  "homepage": "https://MouhaNad-ux.github.io/trending",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
